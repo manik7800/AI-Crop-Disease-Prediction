@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+
+crop_disease.db
+
+.ipynb_checkpoints/
+
+outputs/
+
+temp/
+
+.DS_Store
